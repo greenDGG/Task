@@ -1,0 +1,6 @@
+.env
+sessions/telegram_session.session
+sessions/youtube_cookies.json
+screenshots/
+bot.log
+historial.json
