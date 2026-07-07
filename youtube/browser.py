@@ -7,7 +7,7 @@ def _headless():
 # windows chrome // linux chromium
 async def launch_browser(p):
     browser = await p.chromium.launch(
-        channel="chromium",
+        channel="chrome",
         headless=_headless(),
         args=[
             "--disable-blink-features=AutomationControlled",
