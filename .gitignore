@@ -1,4 +1,6 @@
 .env
+__pycache__/
+*.pyc
 sessions/telegram_session.session
 sessions/youtube_cookies.json
 screenshots/
